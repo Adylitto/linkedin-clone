@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
+  "short_name": "LinkedIn clone",
   "name": "Create React App Sample",
+  "orientation":"natural",
   "icons": [
     {
       "src": "favicon.ico",
