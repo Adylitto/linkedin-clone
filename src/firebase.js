@@ -3,12 +3,12 @@ import firebase from 'firebase';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyAQYwspX99h3PjRwkk7hu0MwzFBhE3meGk",
+    apiKey: "FB_KEY",
     authDomain: "linkedin-clone-21d3a.firebaseapp.com",
     projectId: "linkedin-clone-21d3a",
     storageBucket: "linkedin-clone-21d3a.appspot.com",
     messagingSenderId: "217949001428",
-    appId: "1:217949001428:web:4d062412219daa07554d41",
+    appId: "APPID",
     measurementId: "G-0WSMETHWSC"
   };
 
